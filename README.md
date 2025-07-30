@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://drive.google.com/file/d/1IRYNPwQXxPzVjN_Hy4TS-p58n68s9wzg/view?usp=drive_link" width="800"/>
-</div>
+  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/4e795186-a8fd-4652-86c1-f7a091d07879" />
 
 <h1 align="center"><b>Hello, I'm Emanuel Ugarte Alejo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
