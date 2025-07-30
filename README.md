@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/dce7c6b8-ef58-4c7d-af60-09da8b3f3f66" />
 
-<h1 align="center"><b>Hello, I'm Emanuel Ugarte Alejo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola soy Emanuel Ugarte Alejo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFwNmR5eTV6ZG9lZ3ZiM3Fxd2VpcnhjNjM1bXJqZjhta3ZyOHZ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rk7gLA6uFe1W9wZopR/giphy.gif"/>
 
