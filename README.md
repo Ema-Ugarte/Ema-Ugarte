@@ -7,13 +7,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
-Cuento con formación académica en Tripleten, donde adquirí experiencia práctica mediante proyectos basados en situaciones reales, tanto presenciales como presenciales. Estos proyectos me han permitido aplicar herramientas como Python, SQL y visualización de datos, centrándome en el análisis, la depuración y la interpretación de datos para generar información que facilite la toma de decisiones.
+Cuento con formación académica en Tripleten, donde he desarrollado experiencia práctica a través de proyectos basados en situaciones reales, tanto del curso como personales. Estos proyectos me han permitido aplicar herramientas como Python, SQL y técnicas de visualización de datos, enfocándome en el análisis, la depuración y la interpretación de información para apoyar la toma de decisiones.
 
 - 🎓 Actualmente estudio en Tripleten
 - 📊 Apasionado por aprender Python, SQL y análisis de datos
-- 💬 Me encanta explicar las cosas de forma clara y sencilla
-- 🚀 Me entusiasma crecer en este mundo tan vasto y complejo
-- 🛹 Disfruto del skate, los videojuegos y, por supuesto, ¡también del mundo de los datos!
+- 💬 Me gusta explicar de forma clara y sencilla
+- 🚀 Motivado por seguir creciendo en este mundo tan amplio
+- 🛹 Disfruto del skate, los videojuegos y, por supuesto, ¡del mundo de los datos!
   
 ## Mis habilidades incluyen
 
